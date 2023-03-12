@@ -1,10 +1,19 @@
+figure.frameon: False
+figure.facecolor: w
+figure.edgecolor: None
 figure.figsize : 6, 4
 figure.autolayout : True
 font.size : 15
 xtick.labelsize : small
 ytick.labelsize : small
 legend.fontsize : small
+legend.frameon: False
+axes.facecolor: None
+axes.unicode_minus: False
 axes.spines.top : False
 axes.spines.right : False
 xtick.major.size : 5
 ytick.major.size : 5
+font.family: sans-serif
+font.sans-serif: Arial
+
